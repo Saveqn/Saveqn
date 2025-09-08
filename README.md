@@ -11,7 +11,7 @@
        • 
       <b><a href="https://t.me/saveqn">Telegram</a></b>
     </p>
-    <img height="150" src="https://tenor.com/view/monkey-sea-monkey-ocean-gif-19747547" alt="gif monkey">
+    <img height="150" src="https://i.pinimg.com/originals/40/65/42/406542bcef1cbbfa9c2daedb4ba88024.gif" alt="gif monkey">
   </div>
 </body>
 </html>
