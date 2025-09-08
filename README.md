@@ -7,7 +7,9 @@
     <p align="center">
       <b><a href="https://steamcommunity.com/id/Saveqn/">Steam</a></b>
        • 
-      <b><a href="https://discordapp.com/users/753276264961278002/">Discord</a></b>  
+      <b><a href="https://discordapp.com/users/753276264961278002/">Discord</a></b>
+       • 
+      <b><a href="https://t.me/saveqn">Telegram</a></b>
     </p>
   </div>
 </body>
