@@ -10,6 +10,8 @@
       <b><a href="https://discordapp.com/users/753276264961278002/">Discord</a></b>
        • 
       <b><a href="https://t.me/saveqn">Telegram</a></b>
+       • 
+      <b><a href="https://www.tiktok.com/@saveqqn">TikTok</a></b>
     </p>
     <img height="150" src="https://i.pinimg.com/originals/40/65/42/406542bcef1cbbfa9c2daedb4ba88024.gif" alt="gif monkey">
   </div>
