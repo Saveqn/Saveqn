@@ -12,6 +12,8 @@
       <b><a href="https://t.me/saveqn">Telegram</a></b>
        • 
       <b><a href="https://www.tiktok.com/@saveqqn">TikTok</a></b>
+       • 
+      <b><a href="https://github.com/Saveqn/cs2cfg">CS2 Config</a></b>
     </p>
     <img height="150" src="https://i.pinimg.com/originals/40/65/42/406542bcef1cbbfa9c2daedb4ba88024.gif" alt="gif monkey">
   </div>
