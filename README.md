@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.tenor.com/atsrEuZxjdMAAAAM/orange-juice-drinking.gif" width="300px" hieght="100px">
+  <img src="https://media.tenor.com/atsrEuZxjdMAAAAM/orange-juice-drinking.gif" width="300px" hieght="50px">
   
   <br>
   
