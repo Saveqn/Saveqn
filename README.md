@@ -3,7 +3,7 @@
 </head>
 <body>
   <div align="center">
-    <img height="150" src="https://media.tenor.com/atsrEuZxjdMAAAAM/orange-juice-drinking.gif" alt="gif ronaldo">
+    <img height="150" src="https://media.tenor.com/atsrEuZxjdMAAAAM/orange-juice-drinking.gif" alt="gif ronaldo" width="300px">
     <p align="center">
       <b><a href="https://steamcommunity.com/id/Saveqn/">Steam</a></b>
        • 
