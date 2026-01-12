@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media.tenor.com/atsrEuZxjdMAAAAM/orange-juice-drinking.gif" width="300px">
   
-  <br><br>
+  <br>
   
   [![Steam](https://img.shields.io/badge/Steam-1b2838?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/Saveqn/)
   [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/753276264961278002/)
