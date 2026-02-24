@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://media.tenor.com/atsrEuZxjdMAAAAM/orange-juice-drinking.gif" width="300px" height="60px">
-  ![](https://hit.yhype.me/github/profile?account_id=98100338)
+  [![]()](https://hit.yhype.me/github/profile?account_id=98100338)
   
 ---
   
